@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "744670055986",
+    "project_id": "akin-reminder-app",
+    "storage_bucket": "akin-reminder-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744670055986:android:8d74ec0f4d4e126b8f362b",
+        "android_client_info": {
+          "package_name": "com.example.foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744670055986-tqkuk3bo4gprpjv0iu6roqo61rvvqelq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxDXqKMWYhAk1ypGRVCmGEBjX-vKtmaEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744670055986-tqkuk3bo4gprpjv0iu6roqo61rvvqelq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "744670055986-8kjsehebsuhl0ho34c7h1puufisns5gk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
